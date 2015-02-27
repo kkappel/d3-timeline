@@ -1,5 +1,5 @@
-#d3-timeline
-A simple d3 timeline plugin.
+#web2py-timeline
+A simple d3 timeline plugin for web2py.
 
 Get something that looks like
 
